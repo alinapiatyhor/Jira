@@ -2,7 +2,7 @@
 
 ### screenshots of the kyivcity.gov.ua website  testing
 
-![popup](gifs/jira.gif)
+![popup](gifs/Jira.gif)
 
 
 #### full screens of 1 test :arrow_heading_down:
